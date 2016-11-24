@@ -1,0 +1,1 @@
+{"version":3,"sources":["greeter.js"],"names":[],"mappings":";;;;;AAAO,IAAI,gBAAE,CAAN;AACA,IAAI,gBAAE,EAAN;AACA,IAAI,oBAAI;AACX,OAAE,EADS;AAEX,OAAE;AAFS,CAAR;kBAIQ;AACX,OAAE;AADS,C","file":"greeter-compiled.js","sourcesContent":["export let a=0;\r\nexport let b=10;\r\nexport let obj={\r\n    c:12,\r\n    d:13\r\n};\r\nexport default {\r\n    h:'h'\r\n}\r\n//呵呵呵\r\n"]}
